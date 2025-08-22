@@ -1,3 +1,9 @@
+/* Question:
+ * Given a Structural Program to find the area of 
+ * squares and rectangles. Convert it into an Object 
+ * Oriented Program using the OOP concepts.
+ */
+
 abstract class Shape{
     abstract void area();
 }
